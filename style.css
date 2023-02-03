@@ -1,0 +1,21 @@
+*{
+    font-family: 'Gill Sans';
+    color: white;
+    box-sizing: border-box;
+    background-color: black;
+
+}
+
+p{
+    border-radius: 25px;
+  background: lightblue;
+  padding: 20px;
+  width: 100px;
+  height: 20px;
+}
+
+img{
+    height: 60%;
+    width: 50%;
+    padding: 20px
+}
